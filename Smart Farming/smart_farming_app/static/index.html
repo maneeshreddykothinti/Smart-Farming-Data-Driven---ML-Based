@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Smart Farming</title>
+<link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<div id="app">
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <div class="brand-icon">🌾</div>
+      <div>
+        <h1>Smart Farming</h1>
+        <span class="brand-sub">Farm Management Suite</span>
+      </div>
+    </div>
+    <nav class="nav">
+      <button class="nav-item active" data-view="dashboard"><span class="ico">📊</span> Dashboard</button>
+      <button class="nav-item" data-view="profile"><span class="ico">👤</span> My Profile</button>
+      <button class="nav-item" data-view="crops"><span class="ico">🌱</span> My Crops</button>
+      <button class="nav-item" data-view="predict"><span class="ico">🔮</span> Crop Prediction</button>
+      <button class="nav-item" data-view="report"><span class="ico">📋</span> Crop Report</button>
+      <button class="nav-item" data-view="irrigation"><span class="ico">💧</span> Irrigation</button>
+      <button class="nav-item" data-view="weather"><span class="ico">⛅</span> Weather</button>
+    </nav>
+    <div class="sidebar-foot">
+      <div id="farmer-chip" class="farmer-chip"></div>
+      <div style="display:flex;gap:8px;margin-top:8px">
+        <button class="btn btn-ghost btn-sm" id="switch-farmer" style="flex:7">Switch Farmer</button>
+        <button class="btn btn-ghost btn-sm" id="delete-farmer" title="Delete all data" style="flex:3;font-size:16px;padding:7px 0;display:flex;align-items:center;justify-content:center">🗑️</button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Main -->
+  <main class="main">
+    <header class="topbar">
+      <h2 id="view-title">Dashboard</h2>
+      <div class="topbar-right" id="weather-chip"></div>
+    </header>
+    <section id="view" class="view"></section>
+  </main>
+</div>
+
+<!-- Onboarding modal -->
+<div class="modal-backdrop hidden" id="onboard-modal">
+  <div class="modal modal-lg">
+    <div class="row" style="justify-content:space-between">
+      <h3>Welcome to Smart Farming</h3>
+      <button class="btn btn-ghost btn-sm" id="onboard-close" style="font-size:18px;min-width:32px;height:32px;padding:0;display:flex;align-items:center;justify-content:center">×</button>
+    </div>
+    <p class="muted">Create your farmer profile to get started. You can update these values anytime.</p>
+    <div id="onboard-form"></div>
+    <div class="modal-actions">
+      <button class="btn btn-ghost" id="onboard-cancel">Cancel</button>
+      <button class="btn btn-primary" id="onboard-submit">Create Profile</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast-wrap" id="toasts"></div>
+
+<script src="/static/js/app.js"></script>
+</body>
+</html>

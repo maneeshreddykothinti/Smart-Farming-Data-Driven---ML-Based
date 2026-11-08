@@ -1,0 +1,26 @@
+{
+  "farmers": {
+    "c3c79eda1d14": {
+      "id": "c3c79eda1d14",
+      "created_at": "2026-11-06T02:27:07",
+      "plots": [],
+      "sessions": [],
+      "name": "Kothinti Maneesh Reddy",
+      "state": "Andhra\u00a0Pradesh",
+      "village": "Tirupati",
+      "total_land_acres": 10,
+      "lat": null,
+      "lon": null,
+      "N": null,
+      "P": null,
+      "K": null,
+      "ph": null,
+      "organic_matter": null,
+      "soil_moisture": null,
+      "soil_type_code": 2,
+      "water_source_type": null,
+      "irrigation_frequency": null,
+      "soil_type": "loam"
+    }
+  }
+}

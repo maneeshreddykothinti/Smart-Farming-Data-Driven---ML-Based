@@ -1,0 +1,796 @@
+crop,state,season,harvesting_st_month,harvesting_end_month,harvesting_time,sowing_time_period
+Tur,Punjab,Kharif,October,October,October,
+Tur,Andhra Pradesh,Kharif,,July,,"June, July"
+Tur,Madhya Pradesh,Kharif,November,December,"November, December",
+Tur,Chhattisgarh,Kharif,,July,,"June, July"
+Tur,Jharkhand,Kharif,March,November,"March, April, November",
+Tur,Karnataka,Kharif,November,December,"November, December",
+Tur,Tripura,Kharif,,June,,June
+Tur,Haryana,Kharif,,June,,June
+Tur,Uttar Pradesh,Kharif,,July,,"June, July"
+Tur,Odisha,Kharif,November,November,November,
+Tur,Gujarat,Kharif,,July,,"June, July"
+Tur,Bihar,Kharif,,July,,"June, July"
+Tur,Nagaland,Kharif,,June,,June
+Tur,Madhya Pradesh,Kharif,,July,,"June, July"
+Tur,Odisha,Kharif,,July,,"June, July"
+Tur,Jharkhand,Kharif,,July,,"June, July"
+Tur,Tamil Nadu,Kharif,,July,,"June, July"
+Tur,All India,Kharif,January,December,"January, March, April, November, December",
+Tur,Nagaland,Kharif,November,November,November,
+Tur,Uttar Pradesh,Kharif,April,November,"April, November",
+Tur,Haryana,Kharif,October,October,October,
+Tur,All India,Kharif,,July,,"May, June, July"
+Tur,Maharashtra,Kharif,,July,,"June, July"
+Tur,Rajasthan,Kharif,,June,,June
+Tur,Rajasthan,Kharif,November,November,November,
+Tur,Tripura,Kharif,November,November,November,
+Tur,Gujarat,Kharif,November,December,"November, December",
+Tur,Maharashtra,Kharif,November,December,"November, December",
+Tur,Bihar,Kharif,April,November,"April, November",
+Tur,Punjab,Kharif,,June,,June
+Tur,Tamil Nadu,Kharif,November,December,"November, December",
+Tur,Andhra Pradesh,Kharif,November,December,"November, December",
+Tur,Karnataka,Kharif,,July,,"June, July"
+Tur,Chhattisgarh,Kharif,January,November,"January, November",
+Bajra,Uttar Pradesh,Summer,,March,,March
+Bajra,Uttar Pradesh,Summer,May,June,"May, June",
+Bajra,Maharashtra,Summer,,February,,"January, February"
+Bajra,Rajasthan,Summer,,March,,"February, March"
+Bajra,Tamil Nadu,Rabi,,October,,"September, October"
+Bajra,Tamil Nadu,Rabi,December,December,December,
+Bajra,Punjab,Kharif,October,October,October,
+Bajra,Tamil Nadu,Kharif,September,October,"September, October",
+Bajra,Rajasthan,Kharif,,July,,"June, July"
+Bajra,All India,Summer,April,May,"April, May",
+Bajra,All India,Kharif,,July,,"June, July"
+Bajra,Maharashtra,Kharif,September,October,"September, October",
+Bajra,Andhra Pradesh,Rabi,February,March,"February, March",
+Bajra,Andhra Pradesh,Rabi,,December,,"November, December"
+Bajra,Maharashtra,Summer,May,May,May,
+Bajra,Rajasthan,Summer,May,June,"May, June",
+Bajra,Madhya Pradesh,Summer,June,June,June,
+Bajra,All India,Summer,,February,,"January, February"
+Bajra,Telangana,Kharif,July,August,"July, August",
+Bajra,Punjab,Kharif,,August,,"July, August"
+Bajra,Tamil Nadu,Summer,,March,,"February, March"
+Bajra,Uttar Pradesh,Kharif,,July,,July
+Bajra,Andhra Pradesh,Summer,April,April,April,
+Bajra,All India,Kharif,September,November,"September, October, November",
+Bajra,Madhya Pradesh,Kharif,,July,,July
+Bajra,Madhya Pradesh,Kharif,October,October,October,
+Bajra,Madhya Pradesh,Summer,,March,,"February, March"
+Bajra,Andhra Pradesh,Kharif,,July,,"June, July"
+Bajra,Andhra Pradesh,Kharif,September,October,"September, October",
+Bajra,Andhra Pradesh,Summer,,January,,January
+Bajra,Telangana,Kharif,,April,,"March, April"
+Bajra,Rajasthan,Kharif,September,October,"September, October",
+Bajra,Uttar Pradesh,Kharif,October,October,October,
+Bajra,Tamil Nadu,Summer,May,June,"May, June",
+Bajra,Tamil Nadu,Kharif,,July,,"June, July"
+Bajra,Maharashtra,Kharif,,July,,"June, July"
+Castorseed,Gujarat,Kharif,,August,,"July, August"
+Castorseed,Chhattisgarh,Kharif,February,February,February,
+Castorseed,Rajasthan,Kharif,,August,,"July, August"
+Castorseed,Odisha,Kharif,January,December,"January, December",
+Castorseed,Gujarat,Kharif,February,March,"February, March",
+Castorseed,Karnataka,Kharif,November,December,"November, December",
+Castorseed,Odisha,Kharif,,July,,"June, July"
+Castorseed,Rajasthan,Kharif,January,February,"January, February",
+Castorseed,Maharashtra,Kharif,,July,,"June, July"
+Castorseed,Telangana,Kharif,January,December,"January, December",
+Castorseed,All India,Kharif,January,February,"January, February",
+Castorseed,Chhattisgarh,Kharif,,July,,July
+Castorseed,Haryana,Kharif,January,February,"January, February",
+Castorseed,Karnataka,Kharif,,August,,"July, August"
+Castorseed,Maharashtra,Kharif,January,December,"January, December",
+Castorseed,Haryana,Kharif,,August,,"July, August"
+Castorseed,Andhra Pradesh,Kharif,,July,,"June, July"
+Castorseed,Telangana,Kharif,,November,,"June, July, October, November"
+Castorseed,Andhra Pradesh,Kharif,January,December,"January, December",
+Castorseed,All India,Kharif,,August,,"July, August"
+Gram,Madhya Pradesh,Rabi,October,November,"October, November",
+Gram,Assam,Rabi,,March,,March
+Gram,Haryana,Rabi,October,November,"October, November",
+Gram,Gujarat,Rabi,October,November,"October, November",
+Gram,Bihar,Rabi,,March,,March
+Gram,Bihar,Rabi,October,November,"October, November",
+Gram,Haryana,Rabi,,April,,"March, April"
+Gram,Maharashtra,Rabi,September,October,"September, October",
+Gram,Rajasthan,Rabi,October,November,"October, November",
+Gram,Gujarat,Rabi,,March,,"February, March"
+Gram,Assam,Rabi,October,November,"October, November",
+Gram,Jharkhand,Rabi,October,November,"October, November",
+Gram,Karnataka,Rabi,October,November,"October, November",
+Gram,Uttar Pradesh,Rabi,October,November,"October, November",
+Gram,Maharashtra,Rabi,,March,,"February, March"
+Gram,Madhya Pradesh,Rabi,,March,,"February, March"
+Gram,Andhra Pradesh,Rabi,,March,,"February, March"
+Gram,Karnataka,Rabi,,February,,February
+Gram,Jharkhand,Rabi,,April,,"March, April"
+Gram,Andhra Pradesh,Rabi,November,November,November,
+Gram,Chhattisgarh,Rabi,,March,,"February, March"
+Gram,Uttar Pradesh,Rabi,,April,,"March, April"
+Gram,Punjab,Rabi,,April,,"March, April"
+Gram,Chhattisgarh,Rabi,October,October,October,
+Gram,Punjab,Rabi,October,November,"October, November",
+Gram,Rajasthan,Rabi,,April,,"March, April"
+Cotton,Odisha,Kharif,November,December,"November, December",
+Cotton,Uttar Pradesh,Kharif,,June,,"April, May, June"
+Cotton,Telangana,Kharif,,July,,"June, July"
+Cotton,Tamil Nadu,Kharif,,September,,"August, September"
+Cotton,West Bengal,Kharif,,November,,"October, November"
+Cotton,All India,Kharif,September,December,"September, October, November, December",
+Cotton,Bihar,Kharif,October,November,"October, November",
+Cotton,Bihar,Kharif,,July,,July
+Cotton,Haryana,Kharif,,May,,"April, May"
+Cotton,Madhya Pradesh,Kharif,,July,,"June, July"
+Cotton,Uttar Pradesh,Kharif,September,November,"September, October, November",
+Cotton,Kerala,Kharif,October,November,"October, November",
+Cotton,Gujarat,Kharif,,June,,"May, June"
+Cotton,Haryana,Kharif,October,November,"October, November",
+Cotton,Maharashtra,Kharif,,June,,June
+Cotton,Gujarat,Kharif,October,November,"October, November",
+Cotton,Andhra Pradesh,Kharif,January,December,"January, December",
+Cotton,Punjab,Kharif,October,November,"October, November",
+Cotton,Kerala,Kharif,,June,,"May, June"
+Cotton,Rajasthan,Kharif,,May,,"April, May"
+Cotton,Madhya Pradesh,Kharif,October,November,"October, November",
+Cotton,Andhra Pradesh,Kharif,,July,,"June, July"
+Cotton,Odisha,Kharif,,July,,"June, July"
+Cotton,West Bengal,Kharif,June,August,"June, July, August",
+Cotton,Maharashtra,Kharif,November,December,"November, December",
+Cotton,All India,Kharif,,July,,"April, May, June, July"
+Cotton,Rajasthan,Kharif,November,December,"November, December",
+Cotton,Punjab,Kharif,,May,,"April, May"
+Cotton,Tamil Nadu,Kharif,February,April,"February, March, April",
+Cotton,Telangana,Kharif,December,December,December,
+Gram,Uttar Pradesh,Rabi,March,April,"March, April",
+Gram,Uttar Pradesh,Rabi,,November,,"October, November"
+Gram,Jharkhand,Rabi,,November,,"October, November"
+Gram,Bihar,Rabi,,November,,"October, November"
+Gram,Maharashtra,Rabi,February,March,"February, March",
+Gram,Manipur,Rabi,,October,,"September, October"
+Gram,Meghalaya,Rabi,December,December,December,
+Gram,Madhya Pradesh,Rabi,February,March,"February, March",
+Gram,Chhattisgarh,Rabi,February,March,"February, March",
+Gram,Haryana,Rabi,,November,,"October, November"
+Gram,Gujarat,Rabi,,November,,"October, November"
+Gram,Jharkhand,Rabi,March,March,March,
+Gram,Punjab,Rabi,March,April,"March, April",
+Gram,Meghalaya,Rabi,,October,,"September, October"
+Gram,Punjab,Rabi,,November,,"October, November"
+Gram,Karnataka,Rabi,,November,,"October, November"
+Gram,Madhya Pradesh,Rabi,,November,,"October, November"
+Gram,West Bengal,Rabi,,November,,"October, November"
+Gram,Bihar,Rabi,March,March,March,
+Gram,Gujarat,Rabi,February,March,"February, March",
+Gram,Rajasthan,Rabi,,November,,"October, November"
+Gram,Maharashtra,Rabi,,November,,"October, November"
+Gram,Karnataka,Rabi,February,February,February,
+Gram,West Bengal,Rabi,March,March,March,
+Gram,Manipur,Rabi,March,April,"March, April",
+Gram,All India,Rabi,February,November,"February, March, April","September, October, November"
+Gram,Andhra Pradesh,Rabi,February,March,"February, March",
+Gram,Rajasthan,Rabi,March,April,"March, April",
+Gram,Haryana,Rabi,March,April,"March, April",
+Gram,Chhattisgarh,Rabi,,November,,"October, November"
+Gram,Assam,Rabi,March,March,March,
+Groundnut,Karnataka,Summer,March,April,"March, April",
+Groundnut,Odisha,Kharif,October,November,"October, November",
+Groundnut,Maharashtra,Kharif,October,November,"October, November",
+Groundnut,Puducherry,Rabi,March,April,"March, April",
+Groundnut,Andhra Pradesh,Kharif,October,November,"October, November",
+Groundnut,Gujarat,Kharif,,July,,"June, July"
+Groundnut,All India,Rabi,February,May,"February, March, April, May",
+Groundnut,Karnataka,Rabi,February,March,"February, March",
+Groundnut,Gujarat,Kharif,September,November,"September, October, November",
+Groundnut,Tamil Nadu,Rabi,March,April,"March, April",
+Groundnut,Gujarat,Summer,,February,,February
+Groundnut,Maharashtra,Kharif,,July,,"June, July"
+Groundnut,Assam,Rabi,,August,,"July, August"
+Groundnut,Gujarat,Summer,April,May,"April, May",
+Groundnut,Andhra Pradesh,Kharif,,August,,"June, July, August"
+Groundnut,Andhra Pradesh,Rabi,March,April,"March, April",
+Groundnut,Jharkhand,Kharif,October,November,"October, November",
+Groundnut,Maharashtra,Summer,,February,,February
+Groundnut,Andhra Pradesh,Rabi,,December,,"November, December"
+Groundnut,Uttar Pradesh,Kharif,June,June,June,
+Groundnut,Maharashtra,Summer,April,May,"April, May",
+Groundnut,West Bengal,Kharif,October,October,October,
+Groundnut,West Bengal,Summer,,March,,"January, February, March"
+Groundnut,West Bengal,Rabi,,December,,December
+Groundnut,Uttar Pradesh,Kharif,,March,,"February, March"
+Groundnut,All India,Summer,,February,,"January, February"
+Groundnut,Punjab,Summer,June,June,June,
+Groundnut,Puducherry,Kharif,,July,,"June, July"
+Groundnut,Rajasthan,Summer,,February,,February
+Groundnut,Tamil Nadu,Summer,,May,,"April, May"
+Groundnut,Tamil Nadu,Rabi,,December,,"November, December"
+Groundnut,Manipur,Kharif,October,November,"October, November",
+Groundnut,Rajasthan,Summer,June,June,June,
+Groundnut,Tamil Nadu,Kharif,,July,,"June, July"
+Groundnut,Tamil Nadu,Summer,August,August,August,
+Groundnut,Assam,Rabi,November,December,"November, December",
+Groundnut,Punjab,Kharif,,June,,"May, June"
+Groundnut,Karnataka,Kharif,October,November,"October, November",
+Groundnut,Madhya Pradesh,Kharif,October,November,"October, November",
+Groundnut,West Bengal,Kharif,,July,,"June, July"
+Groundnut,Karnataka,Rabi,,December,,"November, December"
+Groundnut,Punjab,Kharif,October,November,"October, November",
+Groundnut,Karnataka,Summer,,December,,December
+Groundnut,All India,Summer,April,May,"April, May",
+Groundnut,Punjab,Summer,,March,,March
+Groundnut,West Bengal,Summer,June,June,June,
+Groundnut,All India,Kharif,October,November,"October, November",
+Groundnut,Odisha,Kharif,,July,,"June, July"
+Groundnut,Chhattisgarh,Kharif,,July,,"June, July"
+Groundnut,Odisha,Rabi,March,March,March,
+Groundnut,Assam,Kharif,November,December,"November, December",
+Groundnut,Chhattisgarh,Kharif,September,November,"September, October, November",
+Groundnut,Odisha,Summer,May,May,May,
+Groundnut,All India,Rabi,,December,,"January, November, December"
+Groundnut,Manipur,Kharif,,June,,"May, June"
+Groundnut,Puducherry,Kharif,September,October,"September, October",
+Groundnut,Puducherry,Rabi,,December,,December
+Groundnut,Assam,Kharif,,August,,"July, August"
+Groundnut,Jharkhand,Kharif,,July,,"June, July"
+Groundnut,Odisha,Rabi,,November,,November
+Groundnut,Tamil Nadu,Kharif,September,October,"September, October",
+Groundnut,Madhya Pradesh,Kharif,,July,,"June, July"
+Groundnut,Karnataka,Kharif,,July,,"June, July"
+Groundnut,Rajasthan,Kharif,October,November,"October, November",
+Groundnut,All India,Kharif,,July,,"June, July"
+Groundnut,West Bengal,Rabi,May,May,May,
+Groundnut,Rajasthan,Kharif,,July,,"June, July"
+Kulthi,Tamil Nadu,Kharif,October,October,October,
+Kulthi,Rajasthan,Kharif,,October,,October
+Kulthi,Maharashtra,Kharif,,October,,October
+Kulthi,Madhya Pradesh,Kharif,,October,,October
+Kulthi,Tamil Nadu,Kharif,,February,,February
+Kulthi,Maharashtra,Kharif,July,July,July,
+Kulthi,Karnataka,Kharif,,November,,"October, November"
+Kulthi,Himachal Pradesh,Kharif,June,July,"June, July",
+Kulthi,Himachal Pradesh,Kharif,,October,,"September, October"
+Kulthi,Madhya Pradesh,Kharif,August,August,August,
+Kulthi,Karnataka,Kharif,August,August,August,
+Kulthi,Rajasthan,Kharif,July,July,July,
+Kulthi,Bihar,Kharif,August,August,August,
+Kulthi,Bihar,Kharif,,November,,"October, November"
+Jute,Odisha,Kharif,August,September,"August, September",
+Jute,Manipur,Kharif,,March,,"February, March"
+Jute,Tripura,Kharif,August,September,"August, September",
+Jute,Kerala,Kharif,,October,,"June, July, August, September, October"
+Jute,Manipur,Kharif,August,September,"August, September",
+Jute,Odisha,Kharif,,June,,"May, June"
+Jute,Kerala,Kharif,January,December,"January, October, November, December",
+Jute,All India,Kharif,,June,,"March, April, May, June"
+Jute,West Bengal,Kharif,July,August,"July, August",
+Jute,West Bengal,Kharif,,May,,"March, April, May"
+Jute,All India,Kharif,July,October,"July, August, September, October",
+Jute,Tripura,Kharif,,May,,"March, April, May"
+Soybean,Odisha,Kharif,,July,,"June, July"
+Soybean,Odisha,Kharif,September,October,"September, October",
+Lentil,Meghalaya,Rabi,,October,,"September, October"
+Lentil,All India,Rabi,February,November,"February, March, April","September, October, November"
+Lentil,Goa,Rabi,March,May,"March, April, May",
+Lentil,Meghalaya,Rabi,February,March,"February, March",
+Lentil,Chhattisgarh,Rabi,March,April,"March, April",
+Lentil,Jharkhand,Rabi,,November,,"October, November"
+Lentil,Assam,Rabi,March,April,"March, April",
+Lentil,Madhya Pradesh,Rabi,,November,,"October, November"
+Lentil,Uttar Pradesh,Rabi,,November,,"October, November"
+Lentil,Punjab,Rabi,,November,,"October, November"
+Lentil,Haryana,Rabi,March,April,"March, April",
+Lentil,Rajasthan,Rabi,,November,,"October, November"
+Lentil,Tripura,Rabi,March,April,"March, April",
+Lentil,Uttar Pradesh,Rabi,March,April,"March, April",
+Lentil,Punjab,Rabi,March,April,"March, April",
+Lentil,West Bengal,Rabi,March,April,"March, April",
+Lentil,West Bengal,Rabi,,November,,"October, November"
+Lentil,Goa,Rabi,,December,,"January, December"
+Lentil,Bihar,Rabi,March,April,"March, April",
+Lentil,Gujarat,Rabi,March,April,"March, April",
+Lentil,Tripura,Rabi,,November,,"October, November"
+Lentil,Assam,Rabi,,November,,"October, November"
+Lentil,Rajasthan,Rabi,March,April,"March, April",
+Lentil,Madhya Pradesh,Rabi,March,April,"March, April",
+Lentil,Jharkhand,Rabi,March,April,"March, April",
+Lentil,Gujarat,Rabi,,November,,"October, November"
+Lentil,Bihar,Rabi,,November,,"October, November"
+Lentil,Chhattisgarh,Rabi,,November,,"October, November"
+Lentil,Haryana,Rabi,,November,,"October, November"
+Linseed,Nagaland,Rabi,,November,,"October, November"
+Linseed,Punjab,Rabi,,November,,"October, November"
+Linseed,Uttar Pradesh,Rabi,,November,,"October, November"
+Linseed,Andhra Pradesh,Rabi,,October,,October
+Linseed,Rajasthan,Rabi,April,May,"April, May",
+Linseed,Uttar Pradesh,Rabi,April,April,April,
+Linseed,Jharkhand,Rabi,,November,,"October, November"
+Linseed,Bihar,Rabi,,November,,November
+Linseed,West Bengal,Rabi,March,April,"March, April",
+Linseed,Assam,Rabi,,November,,"October, November"
+Linseed,Odisha,Rabi,March,March,March,
+Linseed,Bihar,Rabi,March,April,"March, April",
+Linseed,All India,Rabi,March,November,"March, April, May","October, November"
+Linseed,Karnataka,Rabi,,November,,"October, November"
+Linseed,Maharashtra,Rabi,March,April,"March, April",
+Linseed,Chhattisgarh,Rabi,March,March,March,
+Linseed,Maharashtra,Rabi,,November,,"October, November"
+Linseed,Himachal Pradesh,Rabi,April,May,"April, May",
+Linseed,Andhra Pradesh,Rabi,February,March,"February, March",
+Linseed,Himachal Pradesh,Rabi,,November,,"October, November"
+Linseed,Nagaland,Rabi,April,May,"April, May",
+Linseed,Assam,Rabi,March,April,"March, April",
+Linseed,Madhya Pradesh,Rabi,April,April,April,
+Linseed,Punjab,Rabi,April,May,"April, May",
+Linseed,Jharkhand,Rabi,March,April,"March, April",
+Linseed,Karnataka,Rabi,February,March,"February, March",
+Linseed,Chhattisgarh,Rabi,,December,,"November, December"
+Linseed,West Bengal,Rabi,,November,,"October, November"
+Linseed,Madhya Pradesh,Rabi,,December,,"November, December"
+Linseed,Odisha,Rabi,,October,,October
+Linseed,Rajasthan,Rabi,,November,,"October, November"
+Maize,Maharashtra,Rabi,,December,,"October, November, December"
+Maize,Gujarat,Kharif,,July,,"June, July"
+Maize,Himachal Pradesh,Kharif,,June,,"May, June"
+Maize,Bihar,Kharif,October,November,"October, November",
+Maize,Rajasthan,Kharif,,July,,"June, July"
+Maize,West Bengal,Kharif,September,October,"September, October",
+Maize,Himachal Pradesh,Kharif,September,October,"September, October",
+Maize,Bihar,Summer,May,May,May,
+Maize,All India,Kharif,September,November,"September, October, November",
+Maize,Karnataka,Kharif,September,October,"September, October",
+Maize,Haryana,Kharif,October,October,October,
+Maize,Maharashtra,Rabi,March,May,"March, April, May",
+Maize,West Bengal,Rabi,,November,,November
+Maize,Rajasthan,Rabi,,December,,"October, November, December"
+Maize,Andhra Pradesh,Kharif,September,October,"September, October",
+Maize,Uttar Pradesh,Rabi,,November,,"October, November"
+Maize,Uttar Pradesh,Summer,May,May,May,
+Maize,Gujarat,Rabi,,November,,"October, November"
+Maize,Gujarat,Kharif,September,November,"September, October, November",
+Maize,Karnataka,Rabi,,October,,October
+Maize,Karnataka,Rabi,February,March,"February, March",
+Maize,Kerala,Kharif,September,October,"September, October",
+Maize,Punjab,Summer,April,May,"April, May",
+Maize,All India,Rabi,January,May,"January, February, March, April, May",
+Maize,Tamil Nadu,Summer,May,May,May,
+Maize,Andhra Pradesh,Rabi,,December,,"October, November, December"
+Maize,Telangana,Rabi,,December,,"October, November, December"
+Maize,Madhya Pradesh,Rabi,March,May,"March, April, May",
+Maize,Maharashtra,Kharif,October,November,"October, November",
+Maize,Rajasthan,Kharif,October,November,"October, November",
+Maize,Odisha,Kharif,September,October,"September, October",
+Maize,Tamil Nadu,Rabi,,October,,"September, October"
+Maize,Haryana,Summer,May,June,"May, June",
+Maize,Telangana,Rabi,February,May,"February, March, April, May",
+Maize,West Bengal,Summer,,February,,February
+Maize,Andhra Pradesh,Rabi,February,May,"February, March, April, May",
+Maize,All India,Summer,May,May,May,
+Maize,Punjab,Kharif,September,October,"September, October",
+Maize,Uttar Pradesh,Kharif,,July,,"June, July"
+Maize,Uttar Pradesh,Summer,,March,,"February, March"
+Maize,West Bengal,Kharif,,June,,"May, June"
+Maize,Punjab,Kharif,,June,,"May, June"
+Maize,Telangana,Kharif,,July,,"June, July"
+Maize,Telangana,Kharif,September,October,"September, October",
+Maize,Rajasthan,Rabi,March,May,"March, April, May",
+Maize,Tamil Nadu,Summer,,February,,February
+Maize,Uttar Pradesh,Kharif,September,October,"September, October",
+Maize,Tamil Nadu,Kharif,,October,,"June, July, October"
+Maize,Madhya Pradesh,Kharif,September,November,"September, October, November",
+Maize,Gujarat,Rabi,February,March,"February, March",
+Maize,Punjab,Summer,,March,,"February, March"
+Maize,Uttar Pradesh,Rabi,March,May,"March, April, May",
+Maize,West Bengal,Summer,May,May,May,
+Maize,All India,Kharif,,August,,"May, June, July, August"
+Maize,Odisha,Kharif,,July,,"June, July"
+Maize,All India,Rabi,,December,,"January, September, October, November, December"
+Maize,West Bengal,Rabi,March,March,March,
+Maize,Maharashtra,Kharif,,August,,"July, August"
+Maize,Andhra Pradesh,Kharif,,July,,"June, July"
+Maize,All India,Summer,,March,,"January, February, March"
+Maize,Madhya Pradesh,Kharif,,July,,"June, July"
+Maize,Kerala,Kharif,,July,,"June, July"
+Maize,Madhya Pradesh,Rabi,,December,,"October, November, December"
+Maize,Bihar,Summer,,February,,February
+Maize,Bihar,Kharif,,July,,"June, July"
+Maize,Karnataka,Kharif,,June,,"May, June"
+Maize,Haryana,Kharif,,July,,July
+Maize,Haryana,Summer,,March,,"February, March"
+Moong,Tripura,Kharif,September,October,"September, October","July, August"
+Moong,Assam,Kharif,September,October,"September, October","July, August"
+Moong,All India,Summer,March,June,"March, April, May, June",
+Moong,West Bengal,Summer,May,June,"May, June","February, March, April"
+Moong,Tamil Nadu,Summer,May,June,"May, June","February, March"
+Moong,Haryana,Summer,May,June,"May, June","February, March, April"
+Moong,Andhra Pradesh,Kharif,September,October,"September, October","June, July"
+Moong,Haryana,Kharif,September,October,"September, October","July, August"
+Moong,Jharkhand,Summer,May,June,"May, June","February, March, April"
+Moong,Tamil Nadu,Rabi,January,November,"January, February","October, November"
+Moong,Jharkhand,Kharif,September,October,"September, October","July, August"
+Moong,Gujarat,Kharif,September,October,"September, October","July, August"
+Moong,Assam,Summer,May,May,May,"February, March"
+Moong,Karnataka,Rabi,January,November,"January, February","October, November"
+Moong,Karnataka,Summer,March,April,"March, April","January, February"
+Moong,Uttar Pradesh,Kharif,September,October,"September, October","July, August"
+Moong,Karnataka,Kharif,September,October,"September, October","June, July"
+Moong,Maharashtra,Kharif,September,October,"September, October","June, July"
+Moong,Andhra Pradesh,Summer,March,April,"March, April","January, February"
+Moong,All India,Kharif,September,October,"September, October","June, July, August"
+Moong,All India,Summer,,April,,"January, February, March, April"
+Moong,Odisha,Kharif,September,October,"September, October","June, July"
+Moong,All India,Rabi,January,December,"January, February, November, December",
+Moong,Odisha,Rabi,January,November,"January, February","October, November"
+Moong,All India,Rabi,,November,,"August, September, October, November"
+Moong,Assam,Rabi,November,December,"November, December","August, September"
+Moong,Kerala,Summer,March,April,"March, April","January, February"
+Moong,Tamil Nadu,Kharif,September,October,"September, October","June, July"
+Moong,Uttar Pradesh,Summer,May,June,"May, June","February, March, April"
+Moong,Odisha,Summer,March,April,"March, April","January, February"
+Moong,Bihar,Kharif,September,October,"September, October","July, August"
+Moong,Madhya Pradesh,Kharif,September,October,"September, October","June, July"
+Moong,West Bengal,Kharif,September,October,"September, October","July, August"
+Moong,Andhra Pradesh,Rabi,January,November,"January, February","October, November"
+Moong,Punjab,Summer,May,May,May,"February, March"
+Moong,Himachal Pradesh,Kharif,September,October,"September, October","June, July, August"
+Moong,Bihar,Summer,May,June,"May, June","February, March, April"
+Moong,Tripura,Summer,May,June,"May, June","February, March, April"
+Moong,Chhattisgarh,Kharif,September,September,September,"June, July"
+Moong,Punjab,Kharif,September,October,"September, October","July, August"
+Nigerseed,Odisha,Kharif,October,December,"October, November, December","June, July, August, September"
+Nigerseed,Maharashtra,Kharif,October,December,"October, November, December","June, July, August, September"
+Nigerseed,Jharkhand,Kharif,October,December,"October, November, December","June, July, August, September"
+Nigerseed,Gujarat,Kharif,October,December,"October, November, December","June, July, August, September"
+Nigerseed,Andhra Pradesh,Kharif,October,December,"October, November, December","June, July, August, September"
+Nigerseed,Bihar,Kharif,October,December,"October, November, December","June, July, August, September"
+Nigerseed,Karnataka,Kharif,October,December,"October, November, December","June, July, August, September"
+Nigerseed,Chhattisgarh,Kharif,October,November,"October, November","June, July"
+Nigerseed,All India,Kharif,October,December,"October, November, December","June, July, August, September"
+Nigerseed,Madhya Pradesh,Kharif,October,December,"October, November, December","June, July, August, September"
+Rice,All India,Rabi,,December,,"January, December"
+Rice,All India,Kharif,January,December,"January, September, October, November, December",
+Rice,All India,Rabi,April,May,"April, May",
+Rice,Himachal Pradesh,Kharif,,June,,"May, June"
+Rice,Andhra Pradesh,Kharif,November,December,"November, December",
+Rice,Karnataka,Kharif,,June,,"May, June"
+Rice,Andhra Pradesh,Rabi,March,April,"March, April",
+Rice,Andhra Pradesh,Summer,July,August,"July, August",
+Rice,Assam,Kharif,June,July,"June, July",
+Rice,Assam,Rabi,November,December,"November, December",
+Rice,Assam,Summer,May,June,"May, June",
+Rice,Karnataka,Rabi,,October,,"September, October"
+Rice,Bihar,Kharif,September,November,"September, October, November",
+Rice,Bihar,Rabi,April,May,"April, May",
+Rice,Assam,Kharif,,March,,"February, March"
+Rice,Tamil Nadu,Summer,May,June,"May, June",
+Rice,Andhra Pradesh,Summer,,April,,"March, April"
+Rice,Uttar Pradesh,Rabi,,December,,"November, December"
+Rice,Telangana,Kharif,November,December,"November, December",
+Rice,Telangana,Rabi,March,April,"March, April",
+Rice,Uttar Pradesh,Kharif,,July,,"June, July"
+Rice,Maharashtra,Kharif,,July,,"June, July"
+Rice,Telangana,Rabi,,December,,"November, December"
+Rice,Telangana,Kharif,,July,,"June, July"
+Rice,Uttar Pradesh,Kharif,October,November,"October, November",
+Rice,Uttar Pradesh,Rabi,April,May,"April, May",
+Rice,Tamil Nadu,Summer,,February,,"January, February"
+Rice,Andhra Pradesh,Rabi,,December,,"November, December"
+Rice,Tamil Nadu,Rabi,,October,,"September, October"
+Rice,Tamil Nadu,Kharif,,June,,"May, June"
+Rice,Rajasthan,Kharif,,July,,"June, July"
+Rice,Andhra Pradesh,Kharif,,June,,"May, June"
+Rice,West Bengal,Kharif,August,November,"August, September, October, November",
+Rice,Punjab,Kharif,,July,,"May, June, July"
+Rice,West Bengal,Summer,April,May,"April, May",
+Rice,Odisha,Summer,,December,,"January, December"
+Rice,All India,Kharif,,August,,"May, June, July, August"
+Rice,Odisha,Rabi,,July,,"June, July"
+Rice,Odisha,Kharif,,June,,"May, June"
+Rice,Karnataka,Summer,,February,,"January, February"
+Rice,Bihar,Summer,July,August,"July, August",
+Rice,Kerala,Kharif,,May,,"April, May"
+Rice,Kerala,Rabi,,October,,"September, October"
+Rice,Goa,Kharif,September,October,"September, October",
+Rice,Gujarat,Kharif,October,November,"October, November",
+Rice,Gujarat,Kharif,,July,,"June, July"
+Rice,Himachal Pradesh,Kharif,October,October,October,
+Rice,Goa,Kharif,,June,,"May, June"
+Rice,Karnataka,Kharif,September,October,"September, October",
+Rice,Bihar,Summer,,March,,"February, March"
+Rice,Kerala,Summer,,December,,"January, December"
+Rice,Karnataka,Rabi,January,February,"January, February",
+Rice,Karnataka,Summer,May,June,"May, June",
+Rice,Madhya Pradesh,Kharif,,July,,"June, July"
+Rice,Bihar,Rabi,,November,,"October, November"
+Rice,Kerala,Kharif,September,October,"September, October",
+Rice,Kerala,Rabi,January,December,"January, December",
+Rice,Kerala,Summer,March,April,"March, April",
+Rice,Madhya Pradesh,Kharif,October,November,"October, November",
+Rice,Maharashtra,Kharif,October,November,"October, November",
+Rice,Odisha,Kharif,September,October,"September, October",
+Rice,Odisha,Rabi,November,December,"November, December",
+Rice,Odisha,Summer,April,May,"April, May",
+Rice,Punjab,Kharif,October,November,"October, November",
+Rice,Rajasthan,Kharif,October,November,"October, November",
+Rice,West Bengal,Summer,,December,,"November, December"
+Rice,Bihar,Kharif,,August,,"June, July, August"
+Rice,Assam,Summer,,December,,"November, December"
+Rice,Tamil Nadu,Kharif,September,October,"September, October",
+Rice,Assam,Rabi,,July,,"June, July"
+Rice,Tamil Nadu,Rabi,January,February,"January, February",
+Rice,West Bengal,Kharif,,July,,"April, May, June, July"
+Peas,Bihar,Rabi,,November,,"October, November"
+Peas,Madhya Pradesh,Rabi,March,April,"March, April",
+Peas,Haryana,Rabi,March,April,"March, April",
+Peas,Bihar,Rabi,March,April,"March, April",
+Peas,Gujarat,Rabi,,November,,"October, November"
+Peas,Haryana,Rabi,,November,,"October, November"
+Peas,Chhattisgarh,Rabi,March,April,"March, April",
+Peas,Jharkhand,Rabi,,November,,"October, November"
+Peas,West Bengal,Rabi,March,April,"March, April",
+Peas,Chhattisgarh,Rabi,,November,,"October, November"
+Peas,Jharkhand,Rabi,March,April,"March, April",
+Peas,Uttar Pradesh,Rabi,March,April,"March, April",
+Peas,Punjab,Rabi,,November,,"October, November"
+Peas,Rajasthan,Rabi,,November,,"October, November"
+Peas,Gujarat,Rabi,March,April,"March, April",
+Peas,All India,Rabi,March,November,"March, April","October, November"
+Peas,Uttar Pradesh,Rabi,,November,,"October, November"
+Peas,Rajasthan,Rabi,March,April,"March, April",
+Peas,West Bengal,Rabi,,November,,"October, November"
+Peas,Assam,Rabi,March,April,"March, April",
+Peas,Madhya Pradesh,Rabi,,November,,"October, November"
+Peas,Punjab,Rabi,March,April,"March, April",
+Peas,Tripura,Rabi,,November,,"October, November"
+Peas,Tripura,Rabi,March,April,"March, April",
+Peas,Assam,Rabi,,November,,"October, November"
+Rapeseed & Mustard,Karnataka,Rabi,February,October,February,October
+Rapeseed & Mustard,Uttar Pradesh,Rabi,January,December,"January, February, March, December","September, October"
+Rapeseed & Mustard,Uttarakhand,Rabi,January,December,"January, March, December","September, October, November"
+Rapeseed & Mustard,Bihar,Rabi,January,November,"January, February, March","September, October, November"
+Rapeseed & Mustard,Odisha,Rabi,February,November,"February, March","October, November"
+Rapeseed & Mustard,All India,Rabi,February,November,"February, March, April","October, November"
+Rapeseed & Mustard,Chhattisgarh,Rabi,January,December,"January, March, December","September, October, November"
+Rapeseed & Mustard,Delhi,Rabi,January,November,"January, February, March","September, October, November"
+Rapeseed & Mustard,Haryana,Rabi,January,December,"January, February, March, December","September, October, November"
+Rapeseed & Mustard,Assam,Rabi,February,December,"February, March","November, December"
+Rapeseed & Mustard,Andhra Pradesh,Rabi,February,December,"February, March","November, December"
+Rapeseed & Mustard,Punjab,Rabi,January,December,"January, March, April, December","September, October, November"
+Rapeseed & Mustard,Gujarat,Rabi,February,October,"February, March",October
+Rapeseed & Mustard,Himachal Pradesh,Rabi,March,November,"March, April","October, November"
+Rapeseed & Mustard,Jharkhand,Rabi,February,October,"February, March",October
+Rapeseed & Mustard,West Bengal,Rabi,February,November,"February, March","October, November"
+Rapeseed & Mustard,Madhya Pradesh,Rabi,January,December,"January, February, March, December","September, October"
+Rapeseed & Mustard,Rajasthan,Rabi,February,November,"February, March","September, October, November"
+Rapeseed & Mustard,Maharashtra,Rabi,February,November,"February, March","October, November"
+Rapeseed & Mustard,Manipur,Rabi,February,November,"February, March","October, November"
+Safflower,Maharashtra,Rabi,,October,,"September, October"
+Safflower,Andhra Pradesh,Rabi,,October,,October
+Safflower,All India,Rabi,,October,,October
+Safflower,Telangana,Rabi,,October,,October
+Safflower,Karnataka,Rabi,,October,,October
+Safflower,Telangana,Rabi,February,February,February,
+Safflower,Andhra Pradesh,Rabi,February,February,February,
+Safflower,All India,Rabi,February,February,February,
+Safflower,Karnataka,Rabi,February,February,February,
+Safflower,Maharashtra,Rabi,January,February,"January, February",
+Sesamum,Maharashtra,Rabi,December,December,December,
+Sesamum,All India,Summer,,March,,"January, February, March"
+Sesamum,Gujarat,Kharif,October,November,"October, November",
+Sesamum,Maharashtra,Summer,,February,,February
+Sesamum,All India,Kharif,,July,,"June, July"
+Sesamum,All India,Kharif,September,November,"September, October, November",
+Sesamum,Odisha,Kharif,,July,,"June, July"
+Sesamum,Andhra Pradesh,Summer,April,May,"April, May",
+Sesamum,Madhya Pradesh,Kharif,,July,,"June, July"
+Sesamum,Madhya Pradesh,Kharif,October,November,"October, November",
+Sesamum,Telangana,Kharif,,July,,"June, July"
+Sesamum,Rajasthan,Kharif,,July,,"June, July"
+Sesamum,Telangana,Kharif,October,November,"October, November",
+Sesamum,Telangana,Summer,April,May,"April, May",
+Sesamum,Telangana,Rabi,February,March,"February, March",
+Sesamum,Andhra Pradesh,Kharif,,July,,"June, July"
+Sesamum,Tamil Nadu,Summer,May,June,"May, June",
+Sesamum,Kerala,Summer,,February,,February
+Sesamum,Uttar Pradesh,Kharif,,July,,"June, July"
+Sesamum,Andhra Pradesh,Summer,,February,,February
+Sesamum,Tamil Nadu,Kharif,October,November,"October, November",
+Sesamum,Uttar Pradesh,Summer,,March,,"February, March"
+Sesamum,Tamil Nadu,Rabi,February,December,"February, March, December",
+Sesamum,Karnataka,Kharif,October,November,"October, November",
+Sesamum,Madhya Pradesh,Rabi,December,December,December,
+Sesamum,Kerala,Summer,April,May,"April, May",
+Sesamum,Tamil Nadu,Rabi,,November,,"August, September, October, November"
+Sesamum,All India,Rabi,January,December,"January, February, March, December",
+Sesamum,West Bengal,Summer,,March,,"February, March"
+Sesamum,Andhra Pradesh,Rabi,December,December,December,
+Sesamum,Odisha,Summer,,February,,February
+Sesamum,Tamil Nadu,Summer,,February,,February
+Sesamum,Karnataka,Kharif,,July,,"June, July"
+Sesamum,Maharashtra,Kharif,,July,,"June, July"
+Sesamum,Odisha,Kharif,October,November,"October, November",
+Sesamum,All India,Summer,May,June,"May, June",
+Sesamum,All India,Rabi,,November,,"August, September, October, November"
+Sesamum,Gujarat,Summer,,March,,"February, March"
+Sesamum,Kerala,Kharif,October,November,"October, November",
+Sesamum,Maharashtra,Rabi,,September,,"August, September"
+Sesamum,Gujarat,Kharif,,July,,"June, July"
+Sesamum,Gujarat,Summer,May,June,"May, June",
+Sesamum,Odisha,Rabi,February,November,"February, March, October, November",
+Sesamum,Odisha,Summer,May,June,"May, June",
+Sesamum,Andhra Pradesh,Rabi,,September,,"August, September"
+Sesamum,Madhya Pradesh,Rabi,,September,,"August, September"
+Sesamum,Rajasthan,Kharif,October,November,"October, November",
+Sesamum,Maharashtra,Summer,April,May,"April, May",
+Sesamum,Andhra Pradesh,Kharif,October,November,"October, November",
+Sesamum,West Bengal,Summer,May,June,"May, June",
+Sesamum,Maharashtra,Kharif,October,November,"October, November",
+Sesamum,Tamil Nadu,Kharif,,July,,"June, July"
+Sesamum,Uttar Pradesh,Kharif,October,November,"October, November",
+Sesamum,Kerala,Kharif,,July,,"June, July"
+Sesamum,Uttar Pradesh,Summer,May,June,"May, June",
+Soybean,Jharkhand,Kharif,,July,,"June, July"
+Soybean,Maharashtra,Kharif,September,October,"September, October",
+Soybean,Madhya Pradesh,Kharif,September,October,"September, October",
+Soybean,Bihar,Kharif,September,October,"September, October",
+Soybean,Meghalaya,Kharif,September,October,"September, October","June, July"
+Soybean,Madhya Pradesh,Kharif,,July,,"June, July"
+Soybean,Bihar,Kharif,,July,,"June, July"
+Soybean,Karnataka,Kharif,September,October,"September, October",
+Soybean,Gujarat,Kharif,September,October,"September, October",
+Soybean,Andhra Pradesh,Kharif,,July,,"June, July"
+Soybean,Chhattisgarh,Kharif,,July,,"June, July"
+Soybean,Karnataka,Kharif,,July,,"June, July"
+Soybean,Chhattisgarh,Kharif,September,October,"September, October",
+Soybean,Andhra Pradesh,Kharif,September,October,"September, October",
+Soybean,Uttar Pradesh,Kharif,September,October,"September, October","June, July"
+Soybean,Manipur,Kharif,September,October,"September, October","June, July"
+Soybean,Rajasthan,Kharif,September,October,"September, October",
+Soybean,Maharashtra,Kharif,,July,,"June, July"
+Soybean,All India,Kharif,September,October,"September, October","June, July"
+Soybean,Rajasthan,Kharif,,July,,"June, July"
+Soybean,Gujarat,Kharif,,July,,"June, July"
+Soybean,Jharkhand,Kharif,September,October,"September, October",
+Sugarcane,Haryana,Rabi,January,December,"January, February, March, December",
+Sugarcane,Kerala,Rabi,,December,,"January, December"
+Sugarcane,Punjab,Rabi,January,December,"January, February, November, December",
+Sugarcane,Maharashtra,Kharif,,August,,"July, August"
+Sugarcane,Tripura,Rabi,,May,,"February, March, April, May"
+Sugarcane,West Bengal,Kharif,,December,,"January, February, March, April, October, November, December"
+Sugarcane,Assam,Rabi,January,December,"January, December",
+Sugarcane,Madhya Pradesh,Kharif,January,December,"January, February, March, October, November, December",
+Sugarcane,Uttar Pradesh,Kharif,,November,,"October, November"
+Sugarcane,Kerala,Rabi,January,December,"January, December",
+Sugarcane,Assam,Rabi,,April,,"March, April"
+Sugarcane,Andhra Pradesh,Rabi,January,December,"January, February, March, April, May, December",
+Sugarcane,All India,Kharif,January,December,"January, October, November, December",
+Sugarcane,Tamil Nadu,Rabi,,December,,"January, December"
+Sugarcane,Bihar,Kharif,October,December,"October, November, December",
+Sugarcane,Karnataka,Rabi,,December,,"January, February, March, December"
+Sugarcane,Tamil Nadu,Rabi,January,December,"January, December",
+Sugarcane,Tripura,Rabi,January,December,"January, February, March, December",
+Sugarcane,All India,Rabi,January,December,"January, February, March, April, December",
+Sugarcane,All India,Rabi,,April,,"February, March, April"
+Sugarcane,Madhya Pradesh,Kharif,,December,,"January, February, March, April, October, November, December"
+Sugarcane,Bihar,Rabi,,March,,"February, March"
+Sugarcane,Odisha,Rabi,January,December,"January, February, November, December",
+Sugarcane,Bihar,Kharif,,November,,"October, November"
+Sugarcane,West Bengal,Kharif,January,December,"January, February, March, October, November, December",
+Sugarcane,Bihar,Rabi,January,December,"January, February, November, December",
+Sugarcane,Punjab,Rabi,,March,,"February, March"
+Sugarcane,Karnataka,Rabi,January,December,"January, February, March, April, May, August, September, October, November, December",
+Sugarcane,Tamil Nadu,Kharif,May,August,"May, June, July, August",
+Sugarcane,Haryana,Rabi,,March,,"February, March"
+Sugarcane,Odisha,Rabi,,May,,"February, March, April, May"
+Sugarcane,Uttar Pradesh,Rabi,January,December,"January, February, October, November, December",
+Sugarcane,Rajasthan,Rabi,January,December,"January, February, March, December",
+Sugarcane,Andhra Pradesh,Rabi,,December,,"January, February, March, April, May, June, December"
+Sugarcane,Uttar Pradesh,Kharif,October,December,"October, November, December",
+Sugarcane,All India,Kharif,,October,,"June, July, August, September, October"
+Sugarcane,Maharashtra,Kharif,October,November,"October, November",
+Sugarcane,Rajasthan,Rabi,,April,,"March, April"
+Sugarcane,Uttar Pradesh,Rabi,,November,,"October, November"
+Sugarcane,Tamil Nadu,Kharif,,August,,"June, July, August"
+Sunflower,Punjab,Summer,,February,,February
+Sunflower,All India,Summer,,February,,February
+Sunflower,Andhra Pradesh,Kharif,,August,,"June, July, August"
+Sunflower,Tamil Nadu,Kharif,,August,,"June, July, August"
+Sunflower,Tamil Nadu,Rabi,,October,,October
+Sunflower,Telangana,Kharif,,August,,"June, July, August"
+Sunflower,Andhra Pradesh,Rabi,,October,,October
+Sunflower,Tamil Nadu,Rabi,January,January,January,
+Sunflower,West Bengal,Summer,,February,,February
+Sunflower,Punjab,Summer,April,May,"April, May",
+Sunflower,Haryana,Summer,,March,,"February, March"
+Sunflower,Odisha,Summer,April,May,"April, May",
+Sunflower,Maharashtra,Rabi,January,January,January,
+Sunflower,Maharashtra,Kharif,October,November,"October, November",
+Sunflower,All India,Summer,April,May,"April, May",
+Sunflower,Karnataka,Summer,March,April,"March, April",
+Sunflower,Karnataka,Rabi,January,January,January,
+Sunflower,Bihar,Rabi,,December,,"January, December"
+Sunflower,Andhra Pradesh,Kharif,September,November,"September, October, November",
+Sunflower,All India,Rabi,January,January,January,
+Sunflower,Haryana,Summer,May,May,May,
+Sunflower,All India,Kharif,September,November,"September, October, November",
+Sunflower,Karnataka,Summer,,December,,"January, December"
+Sunflower,Bihar,Rabi,April,May,"April, May",
+Sunflower,Karnataka,Rabi,,October,,October
+Sunflower,Karnataka,Kharif,September,November,"September, October, November",
+Sunflower,Tamil Nadu,Kharif,September,November,"September, October, November",
+Sunflower,Telangana,Kharif,September,November,"September, October, November",
+Sunflower,Karnataka,Kharif,,August,,"June, July, August"
+Sunflower,Andhra Pradesh,Rabi,January,January,January,
+Sunflower,All India,Kharif,,August,,"June, July, August"
+Sunflower,Maharashtra,Rabi,,October,,October
+Sunflower,Maharashtra,Kharif,,August,,"July, August"
+Sunflower,Odisha,Summer,,February,,February
+Sunflower,West Bengal,Summer,April,May,"April, May",
+Sunflower,All India,Rabi,,October,,October
+Urad,Odisha,Summer,March,April,"March, April","January, February"
+Urad,Jharkhand,Summer,May,June,"May, June","February, March, April"
+Urad,Tamil Nadu,Rabi,January,November,"January, February","October, November"
+Urad,Assam,Summer,May,May,May,"February, March"
+Urad,Tamil Nadu,Kharif,September,October,"September, October","June, July"
+Urad,Bihar,Summer,May,June,"May, June","February, March, April"
+Urad,Jharkhand,Kharif,September,October,"September, October","July, August"
+Urad,Chhattisgarh,Kharif,September,September,September,"June, July"
+Urad,Karnataka,Rabi,January,November,"January, February","October, November"
+Urad,Karnataka,Summer,March,April,"March, April","January, February"
+Urad,Bihar,Kharif,September,October,"September, October","July, August"
+Urad,Kerala,Summer,March,April,"March, April","January, February"
+Urad,All India,Kharif,January,December,"January, February, March, April, May, June, August, September, October, November, December",
+Urad,Assam,Rabi,November,December,"November, December","August, September"
+Urad,Uttar Pradesh,Kharif,September,October,"September, October","July, August"
+Urad,West Bengal,Kharif,September,October,"September, October","July, August"
+Urad,Punjab,Kharif,September,October,"September, October","July, August"
+Urad,Madhya Pradesh,Kharif,September,October,"September, October","June, July"
+Urad,Himachal Pradesh,Kharif,September,October,"September, October","June, July, August"
+Urad,Andhra Pradesh,Summer,March,April,"March, April","January, February"
+Urad,Maharashtra,Kharif,September,October,"September, October","June, July"
+Urad,Andhra Pradesh,Rabi,January,November,"January, February","October, November"
+Urad,Andhra Pradesh,Kharif,September,October,"September, October","June, July"
+Urad,Karnataka,Kharif,September,October,"September, October","June, July"
+Urad,Punjab,Summer,May,May,May,"February, March"
+Urad,Gujarat,Kharif,September,October,"September, October","July, August"
+Urad,Assam,Kharif,September,October,"September, October","July, August"
+Urad,Tripura,Summer,May,June,"May, June","February, March, April"
+Urad,Tripura,Kharif,September,October,"September, October","July, August"
+Urad,All India,Kharif,,November,,"January, February, March, April, June, July, August, September, October, November"
+Urad,Uttar Pradesh,Summer,May,June,"May, June","February, March, April"
+Urad,Odisha,Rabi,January,November,"January, February","October, November"
+Urad,Odisha,Kharif,September,October,"September, October","June, July"
+Urad,Haryana,Summer,May,June,"May, June","February, March, April"
+Urad,West Bengal,Summer,May,June,"May, June","February, March, April"
+Urad,Haryana,Kharif,September,October,"September, October","July, August"
+Urad,Tamil Nadu,Summer,May,June,"May, June","February, March"
+Wheat,West Bengal,Rabi,,December,,"November, December"
+Wheat,Assam,Rabi,March,April,"March, April",
+Wheat,Punjab,Rabi,April,May,"April, May",
+Wheat,Himachal Pradesh,Rabi,April,June,"April, May, June",
+Wheat,Maharashtra,Rabi,February,March,"February, March",
+Wheat,Odisha,Rabi,March,April,"March, April",
+Wheat,Odisha,Rabi,,December,,"November, December"
+Wheat,Bihar,Rabi,March,April,"March, April",
+Wheat,Haryana,Rabi,April,May,"April, May",
+Wheat,Karnataka,Rabi,February,March,"February, March",
+Wheat,Gujarat,Rabi,February,March,"February, March",
+Wheat,West Bengal,Rabi,March,April,"March, April",
+Wheat,Uttar Pradesh,Rabi,,December,,"October, November, December"
+Wheat,Bihar,Rabi,,December,,"November, December"
+Wheat,Gujarat,Rabi,,December,,"November, December"
+Wheat,Madhya Pradesh,Rabi,February,April,"February, March, April",
+Wheat,All India,Rabi,,December,,"January, October, November, December"
+Wheat,Madhya Pradesh,Rabi,,December,,"November, December"
+Wheat,Rajasthan,Rabi,March,April,"March, April",
+Wheat,All India,Rabi,February,June,"February, March, April, May, June",
+Wheat,Haryana,Rabi,,December,,"October, November, December"
+Wheat,Maharashtra,Rabi,,December,,"November, December"
+Wheat,Assam,Rabi,,December,,"November, December"
+Wheat,Punjab,Rabi,,December,,"October, November, December"
+Wheat,Himachal Pradesh,Rabi,,December,,"October, November, December"
+Wheat,Rajasthan,Rabi,,December,,"October, November, December"
+Wheat,Karnataka,Rabi,,November,,"October, November"
+Wheat,Uttar Pradesh,Rabi,March,April,"March, April",

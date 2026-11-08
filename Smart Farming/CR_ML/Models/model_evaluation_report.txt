@@ -1,0 +1,49 @@
+============================================================
+CROP RECOMMENDATION MODEL EVALUATION REPORT
+============================================================
+
+MODELS EVALUATED:
+1. Random Forest Classifier
+2. Decision Tree Classifier
+3. Gradient Boosting Classifier
+
+============================================================
+PERFORMANCE METRICS
+============================================================
+
+            Model  Accuracy  Precision   Recall  F1 Score  Prediction Time (s)
+    Random Forest  0.997727   0.997835 0.997727  0.997726             0.046619
+    Decision Tree  0.984091   0.984699 0.984091  0.984128             0.001032
+Gradient Boosting  0.988636   0.989266 0.988636  0.988622             0.017608
+
+============================================================
+RECOMMENDATION
+============================================================
+
+Best Model: Decision Tree
+Accuracy: 0.9841
+Precision: 0.9847
+Recall: 0.9841
+F1 Score: 0.9841
+Prediction Time: 0.0010s
+Composite Score: 18.9158
+
+============================================================
+DETAILED ANALYSIS
+============================================================
+
+Random Forest:
+- Advantages: Ensemble method reduces overfitting, handles complex relationships
+- Good for: Large datasets with many features
+- Trade-offs: Slower prediction time due to multiple trees
+
+Decision Tree:
+- Advantages: Fast prediction, interpretable, simple to understand
+- Good for: Quick recommendations, understanding feature importance
+- Trade-offs: Prone to overfitting, less accurate on complex patterns
+
+Gradient Boosting:
+- Advantages: High accuracy, handles complex non-linear relationships
+- Good for: Maximizing prediction accuracy
+- Trade-offs: Longer training time, more complex to tune
+
